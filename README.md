@@ -29,7 +29,7 @@
 
 ## Arquitetura
 
-> O sistema de tarefas foi desenvolvido seguindo o modelo de arquitetura de pacotes MVC.
+> O sistema de tarefas foi desenvolvido seguindo o modelo de arquitetura de pacotes por domínios.
 
 ## Principais Camadas
 
